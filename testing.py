@@ -1,5 +1,5 @@
 import random
 
-x = random.randint(0,500)
+x = random.randint(0,250)
 
 print(x)
